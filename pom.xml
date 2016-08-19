@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.as</groupId>
-	<artifactId>basic-project</artifactId>
+	<artifactId>employee-registration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Basic Project</name>
-	<description>Basic Project Structure</description>
+	<name>employee-registration</name>
+	<description>employee-registration</description>
 
 	<dependencies>
 		<dependency>
